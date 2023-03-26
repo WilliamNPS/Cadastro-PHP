@@ -1,4 +1,10 @@
 # Sistema de Cadastro em PHP
-O sistema conta com diversas funcionalidades, como a validação de email e senha no momento do cadastro, garantindo que as informações inseridas sejam válidas e seguras. Além disso, também é possível recuperar a senha em caso de esquecimento, por meio de um processo de verificação de email.
+Olá,
 
-Para a construção deste sistema, utilizei diversas tecnologias, como PHP, HTML, CSS e JavaScript, além de um banco de dados MySQL para armazenamento de informações dos usuários. Disponibilizo todo o código fonte do projeto no GitHub, incluindo os arquivos PHP, HTML, CSS, JavaScript e o script SQL de criação do banco de dados.
+Eu criei um sistema de cadastro simples usando PHP e MySQL que gostaria de compartilhar com você. O sistema permite que os usuários se registrem e criem perfis em um banco de dados MySQL que podem ser gerenciados pelos administradores.
+
+O sistema é fácil de usar e pode ser personalizado para atender às necessidades específicas da sua empresa ou organização. Ele usa uma interface web simples e intuitiva que permite que os usuários preencham informações básicas, como nome, e-mail e senha, para criar uma conta de usuário.
+
+O sistema foi desenvolvido usando tecnologias de código aberto, o que significa que você pode facilmente baixá-lo e personalizá-lo para atender às suas necessidades. Eu fiz o código fonte disponível em um repositório no GitHub para que outros desenvolvedores possam contribuir e melhorar o sistema.
+
+Fique à vontade para verificar o repositório e experimentar o sistema de cadastro simples. Espero que seja útil para você e sua equipe.
